@@ -2,4 +2,21 @@ header
 {
     background-color: teal;
     text-align: center;
+    color: white;
+}
+
+h2 
+{
+    color: teal;
+}
+
+hr  
+{
+    size: 50px;
+}
+
+img
+{
+    padding-left: 15px;
+    padding-right: 15px;
 }
