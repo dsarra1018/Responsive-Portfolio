@@ -34,9 +34,8 @@ hr  {
     background-color: rgb(247, 236, 222);
 }
 
-img{
-    padding-left: 15px;
-    padding-right: 15px;
+.card-img-top {
+    height: 260px;
 }
 
 footer {
