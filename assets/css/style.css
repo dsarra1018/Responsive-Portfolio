@@ -27,7 +27,7 @@ h2 {
 }
 
 hr  {
-    size: 50px;
+    border-top: 1px solid;
 }
 
 .card {
@@ -47,6 +47,9 @@ img{
 
 
 footer {
-    background-color: teal;
+    background-color: #2E4057;
+    text-align: center;
     color: white;
+    padding: 10px;
+
 }
