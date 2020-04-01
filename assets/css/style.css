@@ -1,22 +1,30 @@
-header 
-{
-    background-color: teal;
+header {
+    background-color: #2E4057;
     text-align: center;
-    color: white;
+    color: gray;
+    padding: 20px;
 }
 
-h2 
-{
+h2 {
     color: teal;
+    text-align: center;
 }
 
-hr  
-{
+hr  {
     size: 50px;
 }
-
-img
-{
+h5{
     padding-left: 15px;
     padding-right: 15px;
+}
+img{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nav-link {
+    font-size: 25px;
+}
+footer {
+    background-color: teal;
+    color: white;
 }
