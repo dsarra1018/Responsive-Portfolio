@@ -1,3 +1,10 @@
+body {
+    background-image: url("../img/background.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 header {
     background-color: #2E4057;
     text-align: center;
@@ -5,25 +12,40 @@ header {
     padding: 20px;
 }
 
+#header-link {
+    color: white;
+}
+
+.nav-link {
+    font-size: 25px;
+    color: white;
+}
+
 h2 {
-    color: teal;
+    color: black;
     text-align: center;
 }
 
 hr  {
     size: 50px;
 }
+
+.card {
+    background-color: rgb(247, 236, 222);
+}
+
 h5{
     padding-left: 15px;
     padding-right: 15px;
 }
+
 img{
     padding-left: 15px;
     padding-right: 15px;
 }
-.nav-link {
-    font-size: 25px;
-}
+
+
+
 footer {
     background-color: teal;
     color: white;
