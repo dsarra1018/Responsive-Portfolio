@@ -32,6 +32,7 @@ hr  {
 
 .card {
     background-color: rgb(247, 236, 222);
+    margin-bottom: 100px;
 }
 
 .card-img-top {
@@ -43,5 +44,4 @@ footer {
     text-align: center;
     color: white;
     padding: 10px;
-
 }
