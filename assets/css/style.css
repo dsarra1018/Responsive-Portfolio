@@ -45,3 +45,10 @@ footer {
     color: white;
     padding: 10px;
 }
+
+#github-link,
+#gmail-link,
+#linkedin-link {
+    font-size: 20px;
+
+}
