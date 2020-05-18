@@ -16,6 +16,10 @@ header {
     color: white;
 }
 
+#header-link:hover {
+    text-decoration: none;
+}
+
 .nav-link {
     font-size: 25px;
     color: white;
@@ -50,5 +54,10 @@ footer {
 #gmail-link,
 #linkedin-link {
     font-size: 20px;
+}
 
+#github-link,
+#gmail-link,
+#linkedin-link:hover {
+    text-decoration: none;
 }
